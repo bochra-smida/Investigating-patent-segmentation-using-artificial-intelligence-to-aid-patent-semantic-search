@@ -1,0 +1,1 @@
+# Investigating-patent-segmentation-using-artificial-intelligence-to-aid-patent-semantic-search
